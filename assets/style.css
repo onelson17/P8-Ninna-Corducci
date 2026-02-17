@@ -83,6 +83,7 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
+	font-size: 16px;
 	width: 60%;
 }
 #about-me p {
@@ -101,8 +102,8 @@ body {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
-	background-color: #BEB45A;
+	color: rgb(43, 43, 43);
+	background-color: rgb(196, 193, 110);
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
