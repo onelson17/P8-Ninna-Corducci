@@ -156,6 +156,12 @@ body {
 	font-size: 22px;
 }
 
+.visually-hidden {
+	opacity: 1;
+    color: #333333;
+    background-color: rgb(255, 255, 255);
+}
+
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
