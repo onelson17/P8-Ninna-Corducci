@@ -250,6 +250,17 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+footer {
+    padding: 25px 0;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #55565D; 
+    font-size: 0.9em;
+}
+
+footer div {
+    margin-bottom: 5px;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
